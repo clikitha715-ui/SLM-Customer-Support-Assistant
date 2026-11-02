@@ -1,0 +1,86 @@
+[
+    {
+        "question": "I received the wrong product.",
+        "answer": "Please contact customer support with your order details to request a replacement or return."
+    },
+    {
+        "question": "Why was my payment declined?",
+        "answer": "Your payment may have been declined because of incorrect details or a bank issue. Please try again or contact your bank."
+    },
+    {
+        "question": "How do I reset my account password?",
+        "answer": "Use the forgot password option on the login page to reset your password."
+    },
+    {
+        "question": "What should I do if I receive an incomplete order?",
+        "answer": "Please report the missing items to customer support with your order details."
+    },
+    {
+        "question": "Why is my order showing pending?",
+        "answer": "Your order may still be processing. Please check again later or contact customer support."
+    },
+    {
+        "question": "My product arrived damaged. What should I do?",
+        "answer": "Please contact customer support with your order details and photos of the damaged product."
+    },
+    {
+        "question": "What payment methods are accepted?",
+        "answer": "Available payment methods may include cards, UPI and online banking."
+    },
+    {
+        "question": "Can I exchange a product?",
+        "answer": "Product exchanges are available for eligible items according to the exchange policy."
+    },
+    {
+        "question": "I forgot my registered email address.",
+        "answer": "Please contact customer support to verify your account details."
+    },
+    {
+        "question": "Can I place an order without creating an account?",
+        "answer": "Guest checkout may be available depending on the website's ordering options."
+    },
+    {
+        "question": "My order is delayed. What should I do?",
+        "answer": "Please check your tracking information or contact customer support for assistance."
+    },
+    {
+        "question": "Do you provide delivery on weekends?",
+        "answer": "Weekend delivery depends on the delivery service and your location."
+    },
+    {
+        "question": "Where can I find the order number?",
+        "answer": "You can find your order number in the confirmation email or your account order history."
+    },
+    {
+        "question": "How can I update my phone number?",
+        "answer": "You can update your phone number through your account settings if the option is available."
+    },
+    {
+        "question": "How do I check product availability?",
+        "answer": "Visit the product page to check its current availability."
+    },
+    {
+        "question": "Can I order the same product again?",
+        "answer": "You can place another order if the product is currently available."
+    },
+    {
+        "question": "Can I cancel my order?",
+        "answer": "You can request cancellation before the order is shipped."
+    },
+    {
+        "question": "How can I download my invoice?",
+        "answer": "You can download your invoice from the order history section of your account."
+    },
+    {
+        "question": "What happens if I am not available during delivery?",
+        "answer": "The delivery partner may attempt delivery again according to the delivery policy."
+    },
+    {
+        "question": "What is your return policy?",
+        "answer": "You can request a return according to the return policy within the eligible return period."
+    },
+    {
+        "question": "Can I modify my order after placing it?",
+        "answer": "Order modifications may be possible before the order is processed or shipped."
+    }
+]

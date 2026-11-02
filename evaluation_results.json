@@ -1,0 +1,62 @@
+{
+    "summary": {
+        "total_test_questions": 5,
+        "baseline_valid_responses": 5,
+        "adapted_valid_responses": 5,
+        "baseline_average_latency": 0.2,
+        "adapted_average_latency": 0.258,
+        "note": "Response validity checks non-empty output only. Semantic answer quality requires human review."
+    },
+    "results": [
+        {
+            "question": "Can I change my delivery address?",
+            "expected_answer": "You can request an address change before your order is shipped.",
+            "baseline_answer": "No",
+            "adapted_answer": "No, I can't change my delivery address.",
+            "baseline_valid": true,
+            "adapted_valid": true,
+            "baseline_time_seconds": 0.135,
+            "adapted_time_seconds": 0.361
+        },
+        {
+            "question": "Can I return an opened product?",
+            "expected_answer": "Returns of opened products depend on the product category and return policy.",
+            "baseline_answer": "No",
+            "adapted_answer": "No, it is not possible to return it.",
+            "baseline_valid": true,
+            "adapted_valid": true,
+            "baseline_time_seconds": 0.083,
+            "adapted_time_seconds": 0.304
+        },
+        {
+            "question": "How can I track my order?",
+            "expected_answer": "You can track your order using the tracking link sent to your registered email.",
+            "baseline_answer": "Use the e-mail address of the customer to track the order.",
+            "adapted_answer": "Use the tracking app to track your order.",
+            "baseline_valid": true,
+            "adapted_valid": true,
+            "baseline_time_seconds": 0.423,
+            "adapted_time_seconds": 0.302
+        },
+        {
+            "question": "How long does delivery take?",
+            "expected_answer": "Delivery usually takes 3 to 7 business days depending on your location.",
+            "baseline_answer": "a day",
+            "adapted_answer": "a few hours",
+            "baseline_valid": true,
+            "adapted_valid": true,
+            "baseline_time_seconds": 0.131,
+            "adapted_time_seconds": 0.175
+        },
+        {
+            "question": "Is cash on delivery available?",
+            "expected_answer": "Cash on delivery may be available for eligible locations and products.",
+            "baseline_answer": "Cash on delivery is available.",
+            "adapted_answer": "No.",
+            "baseline_valid": true,
+            "adapted_valid": true,
+            "baseline_time_seconds": 0.226,
+            "adapted_time_seconds": 0.148
+        }
+    ]
+}

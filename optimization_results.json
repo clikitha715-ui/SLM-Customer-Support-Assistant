@@ -1,0 +1,36 @@
+{
+    "baseline_100_tokens": {
+        "average_latency_seconds": 0.6,
+        "memory_before_mb": 482.12,
+        "memory_after_mb": 689.83,
+        "responses": [
+            {
+                "question": "How can I track my order?",
+                "answer": "You can use the e-mail address you provided to track your order.",
+                "latency_seconds": 0.94
+            },
+            {
+                "question": "How can I cancel my order?",
+                "answer": "Can I cancel my order?",
+                "latency_seconds": 0.26
+            }
+        ]
+    },
+    "optimized_60_tokens": {
+        "average_latency_seconds": 0.372,
+        "memory_before_mb": 689.83,
+        "memory_after_mb": 689.84,
+        "responses": [
+            {
+                "question": "How can I track my order?",
+                "answer": "You can use the e-mail address you provided to track your order.",
+                "latency_seconds": 0.528
+            },
+            {
+                "question": "How can I cancel my order?",
+                "answer": "Can I cancel my order?",
+                "latency_seconds": 0.215
+            }
+        ]
+    }
+}

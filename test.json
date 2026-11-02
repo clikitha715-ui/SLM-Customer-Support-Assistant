@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Can I change my delivery address?",
+        "answer": "You can request an address change before your order is shipped."
+    },
+    {
+        "question": "Can I return an opened product?",
+        "answer": "Returns of opened products depend on the product category and return policy."
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "You can track your order using the tracking link sent to your registered email."
+    },
+    {
+        "question": "How long does delivery take?",
+        "answer": "Delivery usually takes 3 to 7 business days depending on your location."
+    },
+    {
+        "question": "Is cash on delivery available?",
+        "answer": "Cash on delivery may be available for eligible locations and products."
+    }
+]
